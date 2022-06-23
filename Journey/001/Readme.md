@@ -24,7 +24,8 @@
 - Connect to RDS database instance from your local
 
 ## ARCHITECTURE
-<p img align="center" alt="CLoud Banner" src="https://user-images.githubusercontent.com/80279467/175266560-69c83059-b84e-49a1-a473-19dce5569935.png" />
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80279467/175269443-29c4b7d7-53da-44ef-b9e3-8f76c10ffd1d.png"  ></p>
 
 
 ### You need to answer the following:
