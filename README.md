@@ -14,4 +14,4 @@
 
 ## Stepping out the door
 
-## - [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
+## - [ ] ☁️ 1 > [DBS03-AWS100 - Creating an Amazon RDS DB Instance](Journey/001/Readme.md)
