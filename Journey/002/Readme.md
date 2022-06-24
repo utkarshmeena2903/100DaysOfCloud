@@ -1,7 +1,8 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
 # COM03-AWS100 - Launch a Hello World website on the internet
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80279467/175496844-5d681f47-2bb0-46f0-b873-9794c6adaa96.jpeg"  ></p>
 
 ## Introduction
 
