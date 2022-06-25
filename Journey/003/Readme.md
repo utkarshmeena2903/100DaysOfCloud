@@ -36,7 +36,7 @@ Level 100 (Introductory)
 * In order for IAM users to create budgets in the Billing and Cost Management console what else must these users be allowed to do? 
 ## This table summarizes the permissions that allow or deny IAM users access to your billing information and tools. For examples of policies that use these permissions, see AWS Billing policy examples.
 
-* In addition to the console how else can you create budgets? 
+### * In addition to the console how else can you create budgets? 
 ## Step 1: Calculate your net income
 The foundation of an effective budget is your net income. That’s your take-home pay—total wages or salary minus deductions for taxes and employer-provided programs such as retirement plans and health insurance. Focusing on your total salary instead of net income could lead to overspending because you’ll think you have more available money than you do. If you’re a freelancer, gig worker, contractor or are self-employed, make sure to keep detailed notes of your contracts and pay in order to help manage irregular income.
 
@@ -52,7 +52,7 @@ This is where everything comes together: What you’re actually spending vs. wha
 ## Step 5: Adjust your spending to stay on budget
 Now that you’ve documented your income and spending, you can make any necessary adjustments so that you don’t overspend and have money to put toward your goals.
 
-##step 6: Review your budget regularly
+## step 6: Review your budget regularly
 Once your budget is set, it’s important to review it and your spending on a regular basis to be sure you are staying on track. Few elements of your budget are set in stone: You may get a raise, your expenses may change or you may reach a goal and want to plan for a new one. Whatever the reason, get into the habit of regularly checking in with your budget following the steps above.
 
 ## * What are the different types of costs that make up a cost budget? 
