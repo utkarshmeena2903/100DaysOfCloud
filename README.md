@@ -17,3 +17,5 @@
 ## - [ ] ☁️ 1 > [DBS03-AWS100 - Creating an Amazon RDS DB Instance](Journey/001/Readme.md)
 
 ## - [ ] ☁️ 2 > [COM03-AWS100 - Launch a Hello World website on the internet](Journey/002/Readme.md)
+
+## - [ ] ☁️ 3 > (Journey/002/Readme.md)
