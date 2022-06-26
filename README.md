@@ -19,3 +19,5 @@
 ##  ☁️ 2 ➜ [COM03-AWS100 - Launch a Hello World website on the internet](Journey/002/Readme.md)
 
 ##  ☁️ 3 ➜ [BIL02-AWS100 — Create a Cost Budget](Journey/003/Readme.md)
+
+##  ☁️ 3 ➜ [DEV03-AWS100 — Install & Configure AWS CLI then create an S3 Bucket](Journey/004/Readme.md)
