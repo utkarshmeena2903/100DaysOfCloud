@@ -1,52 +1,55 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+# STR04-AWS100 - Create an S3 Bucket and store an object in it
 
-# New post title here
+## Cloud Service Provider
+- Amazon Web Services
 
-## Introduction
+## Difficulty
+- Level 100 (Introductory)
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+## Project's Author(s)
+- [Syed Auther](https://twitter.com/syedauther)
 
-## Prerequisite
+## Objectives
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+### You need to complete the following:
 
-## Use Case
+- Using the console, create an S3 bucket
+- Upload an object (any file) into the bucket
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
 
-## Cloud Research
+### You need to answer the following:
+- What is Simple Storage Service (S3)?
+- What is a bucket?
+- What is object storage?
+- How is object storage different than block storage?
+- What is the maximum amount of data that you can store in an S3 bucket? 
+- What is the maximum file size you can store in an S3 bucket?
+- By default, are objects in an S3 bucket public?
+- What are the security best practices regarding S3 buckets?
+- What is an S3 bucket policy?
+- What are storage classes in S3?
+- How is a bucket policy different from an IAM policy? 
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+## References
+- [Getting Started with S3](https://docs.aws.amazon.com/AmazonS3/latest/gsg/GetStartedWithS3.html)
+- [Intro to S3](https://www.youtube.com/watch?v=M_t32mJCXqI)
+- [Creating a bucket](https://docs.aws.amazon.com/AmazonS3/latest/gsg/CreatingABucket.html)
+- [Uploading your first object into a bucket](https://docs.aws.amazon.com/AmazonS3/latest/gsg/PuttingAnObjectInABucket.html)
+- [Bucket Policies](https://docs.aws.amazon.com/AmazonS3/latest/dev/access-policy-language-overview.html)
+- [Storage classes in S3](https://aws.amazon.com/s3/storage-classes/)
+- [Security breach due to public bucket policies](https://www.bleepingcomputer.com/news/security/540-million-facebook-records-leaked-by-public-amazon-s3-buckets/)
 
-## Try yourself
+## Costs
+- This project is included in the free tier.
+- The free tier includes 5GB of Amazon S3 storage in the S3 Standard storage class; 20,000 GET Requests; 2,000 PUT, COPY, POST, or LIST Requests; and 15GB of Data Transfer Out each month.
+- An empty bucket does not incur any costs.
+- [S3 Pricing after free tier exhaustion](https://aws.amazon.com/s3/pricing/?nc=sn&loc=4)
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+## Estimated time to complete
+- 15 minutes
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+## Tips
+- Each bucket's name has to be unique _globally_, across every single bucket in the world.
+- Try to get the URL for the object you uploaded in this task and access it using a browser, you should get an access denied error
+- Do not store sensitive information in a bucket that has public access.
+- Do not turn on _versioning_ on this bucket, it will be difficult to delete.
