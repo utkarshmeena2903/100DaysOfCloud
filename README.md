@@ -20,6 +20,6 @@
 
 ##  ☁️ 3 ➜ [BIL02-AWS100 — Create a Cost Budget](Journey/003/Readme.md)
 
-##  ☁️ 3 ➜ [DEV03-AWS100 — Install & Configure AWS CLI then create an S3 Bucket](Journey/004/Readme.md)
+##  ☁️ 4 ➜ [DEV03-AWS100 — Install & Configure AWS CLI then create an S3 Bucket](Journey/004/Readme.md)
 
-##  ☁️ 3 ➜ [STR04-AWS100 - Create an S3 Bucket and store an object in it](Journey/005/Readme.md)
+##  ☁️ 5 ➜ [STR04-AWS100 - Create an S3 Bucket and store an object in it](Journey/005/Readme.md)
