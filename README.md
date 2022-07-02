@@ -30,3 +30,7 @@
 
 ##  ☁️ 8 ➜ [COM04-AWS200 - Deploy a Docker container image on AWS Fargate](Journey/008/Readme.md)
 
+##  ☁️ 9 ➜ [Create a new CMK in KMS and encrypt an object](Journey/009/Readme.md)
+
+##  ☁️ 10 ➜ [Use a managed Config Rule](Journey/010/Readme.md)
+
