@@ -26,3 +26,7 @@
 
 ##  ☁️ 6 ➜ [SEC04-AWS100 — Create an IAM user](Journey/006/Readme.md)
 
+##  ☁️ 7 ➜ [COM04-AWS100 - Push a Docker image to Amazon ECR repository](Journey/007/Readme.md)
+
+##  ☁️ 8 ➜ [COM04-AWS200 - Deploy a Docker container image on AWS Fargate](Journey/008/Readme.md)
+
