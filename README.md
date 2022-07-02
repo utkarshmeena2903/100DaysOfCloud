@@ -23,3 +23,6 @@
 ##  ☁️ 4 ➜ [DEV03-AWS100 -Install & Configure AWS CLI then create an S3 Bucket](Journey/004/Readme.md)
 
 ##  ☁️ 5 ➜ [STR04-AWS100-create an S3 Bucket and store an object in it](Journey/005/Readme.md)
+
+##  ☁️ 6 ➜ [SEC04-AWS100 — Create an IAM user](Journey/006/Readme.md)
+
