@@ -34,3 +34,5 @@
 
 ##  ☁️ 10 ➜ [Use a managed Config Rule](Journey/010/Readme.md)
 
+##  ☁️ 11 ➜ [GLU02-AWS100 - Introduction to SNS (Simple Notification Service)](Journey/011/Readme.md)
+
